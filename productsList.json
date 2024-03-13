@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "Product": "Nike Air Max",
       "Category": "Sneakers",
       "Description": "The Nike Air Max is a stylish and comfortable sneaker with a classic design. It features a cushioned sole for maximum comfort and support.",
@@ -9,7 +9,7 @@
       "image": "images/nike-air-max.png"
     },
     {
-      "id": "2",
+      "id": 2,
       "Product": "Adidas Stan Smith",
       "Category": "Sneakers",
       "Description": "The Adidas Stan Smith is a timeless sneaker that is perfect for everyday wear. It features a clean and minimalist design with a leather upper.",
@@ -18,7 +18,7 @@
       "image": "images/adidas-stan-smith.png"
     },
     {
-      "id": "3",
+      "id": 3,
       "Product": "Puma Suede Classic",
       "Category": "Sneakers",
       "Description": "The Puma Suede Classic is a retro-inspired sneaker that offers a combination of style and comfort. It features a suede upper and a rubber outsole.",
@@ -27,7 +27,7 @@
       "image": "images/puma-suede-classic.png"
     },
     {
-      "id": "4",
+      "id": 4,
       "Product": "Converse Chuck Taylor",
       "Category": "Sneakers",
       "Description": "The Converse Chuck Taylor is a classic sneaker that never goes out of style. It features a canvas upper and a rubber sole for durability.",
@@ -36,7 +36,7 @@
       "image": "images/converse-chuck-taylor.png"
     },
     {
-      "id": "5",
+      "id": 5,
       "Product": "Vans Old Skool",
       "Category": "Sneakers",
       "Description": "The Vans Old Skool is a skateboarding shoe that has become a popular choice for casual wear. It features a canvas and suede upper with the iconic Vans side stripe.",
@@ -45,7 +45,7 @@
       "image": "images/vans-old-skool.png"
     },
     {
-      "id": "6",
+      "id": 6,
       "Product": "Reebok Classic Leather",
       "Category": "Sneakers",
       "Description": "The Reebok Classic Leather is a timeless sneaker that offers a combination of style and comfort. It features a leather upper and a rubber outsole.",
@@ -54,7 +54,7 @@
       "image": "images/reebok-classic-leather.png"
     },
     {
-      "id": "7",
+      "id": 7,
       "Product": "New Balance 574",
       "Category": "Sneakers",
       "Description": "The New Balance 574 is a classic sneaker that is known for its comfort and durability. It features a suede and mesh upper with the iconic N logo.",
@@ -63,7 +63,7 @@
       "image": "images/new-balance-574.png"
     },
     {
-      "id": "8",
+      "id": 8,
       "Product": "Timberland Premium Boot",
       "Category": "Boots",
       "Description": "The Timberland 6-Inch Premium Boot is a classic boot that is built to last. It features a waterproof leather upper and a rubber lug outsole for traction.",
@@ -72,7 +72,7 @@
       "image": "images/timberland-6-inch-boot.png"
     },
     {
-      "id": "9",
+      "id": 9,
       "Product": "Dr. Martens 1460",
       "Category": "Boots",
       "Description": "The Dr. Martens 1460 is an iconic boot that is known for its durability and style. It features a leather upper and a slip-resistant sole.",
@@ -81,7 +81,7 @@
       "image": "images/dr-martens-1460.png"
     },
     {
-      "id": "10",
+      "id": 10,
       "Product": "UGG Classic Short",
       "Category": "Boots",
       "Description": "The UGG Classic Short is a cozy boot that is perfect for cold weather. It features a sheepskin upper and a lightweight EVA outsole.",
