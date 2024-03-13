@@ -1,11 +1,8 @@
-let products = null;
-
 document.addEventListener('DOMContentLoaded', () => {
     fetch('productsList.json')
     .then(response => response.json())
     .then(data => {
-        products = data;
-        createHtml(products);
+        createHtml(data);
     });
 });
 
@@ -35,20 +32,6 @@ const createHtml = (products) => {
         </div>`;
 
         productOne.href = `/detail.html?id=${product.id}`;
-
         container.appendChild(productOne);
-        
-        
     });
 }
-
-
-document.querySelector('.menu-Icon').addEventListener('click', ()=>{
-  const dropMenu = document.querySelector('header ul')
-
-    if(dropMenu.classList.contains('active')){
-        dropMenu.classList.remove('active')
-    }else{
-        dropMenu.classList.add('active')
-    }
-})
