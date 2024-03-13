@@ -55,3 +55,14 @@ const showDetails = (product) => {
         });
     });
 }
+
+const menu = document.querySelector('header ul')
+const menuIcon = document.querySelector('.menu-Icon')
+
+menuIcon.addEventListener('click', ()=>{
+    if(menu.classList.contains('active')){
+        menu.classList.remove('active')
+    }else{
+        menu.classList.add("active")
+    }
+})
